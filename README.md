@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ExNoise
 - 👀 I’m interested in Learning at the moment
-- 🌱 I’m currently learning Python, WebDevelopment, WebDesign, Blender, Unreal Engine 4/5, various software and personal skills
-- 💞️ I’m looking to collaborate on ...Nothing in this moment but maybe in the future
-- 📫 How to reach me @Ex_Noise on twitter or via mail exnoise.astro@gmail.com
+- 🌱 I’m currently learning Python, WebDevelopment, WebDesign, Blender, PenTesting and various software and personal skills
+- 📫 How to reach me @ExNoise.79 on Signal or via mail at exnoise[dot]astro[at]gmail[dot]com
 
 <!---
 ExNoise/ExNoise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
